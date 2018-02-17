@@ -8,5 +8,13 @@
     <artifactId>sample-maven-hello-world</artifactId>
     <version>1.0.0-SNAPSHOT</version>
 
+    <name>sample project</name>
+    <description>my learing project </description>
+    <packaging>jar</packaging>
+
+
+
+
+
 
 </project>
